@@ -307,7 +307,7 @@ body{
 }
 .social-media{
     color: white;
-    width:  21px;
+    width:  30px;
     ;
     opacity: .6;
     margin: 8px;
@@ -443,7 +443,7 @@ body{
     width: 100%;
     padding:30px;
 }
-.about-header{
+.about-header{ /**/
     height: auto;
     width: 100%;
     text-align: center;
