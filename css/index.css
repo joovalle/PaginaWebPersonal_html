@@ -216,10 +216,11 @@ body{
     opacity: 1;
     transform:rotate(-45deg);
 }
-.header-image img{
+.header-image{ /*aquí estilizo la foto de fondo de pantalla del home*/
     height: 100vh;
-    float: right;
-    width: 100%;
+   background-image: url(../images/foto5.jpg);
+   background-position: cover; /* Centra la imagen en el contenedor */
+   background-repeat: no-repeat; /* Evita que la imagen se repita */
     
 }
 .header-image{
